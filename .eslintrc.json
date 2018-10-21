@@ -1,0 +1,7 @@
+{
+    "extends": "standard",
+    "rules": {
+        "no-console": "off",
+        "no-unused-vars": 0
+    }
+}
